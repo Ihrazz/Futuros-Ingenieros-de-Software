@@ -1,7 +1,7 @@
 # Metodologías de desarrollo de software UPB
 
 ## Nombre del equipo:
-Equipo DevStars
+Futuros Ingenieros de Software
 
 ## Integrantes:
 - Mateo Usuga Perez
